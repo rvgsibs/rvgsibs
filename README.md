@@ -27,6 +27,7 @@
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://img.stackshare.io/service/4013/SignalR-logo.png" />  
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
+  <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /> 
 </div>
   
   ##
