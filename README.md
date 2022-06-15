@@ -55,8 +55,12 @@
   <div>
     <a href="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml" target="_blank">
       <img src="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml/badge.svg" target="_blank"/>
+    </a>  
+  </div>
+  <div>   
+    <a href="https://github.com/rvgsibs/marsusi_frontend_sistema/actions/workflows/master.yml" target="_blank">
+      <img src="https://github.com/rvgsibs/marsusi_frontend_sistema/actions/workflows/master.yml/badge.svg" target="_blank"/>
     </a>
-  
   </div>
   
   
