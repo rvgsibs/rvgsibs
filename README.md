@@ -51,6 +51,7 @@
   </div>
   
   ##
+  ### Github Actions
   <div>
     <a href="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml" target="_blank">
       <img src="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml/badge.svg" target="_blank"/>
