@@ -53,6 +53,12 @@
   ##
   ### Github Actions
   <div>
+     <img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
+  </div>
+  <div>
+    <img alt="Website Deployed for Free with FTP Deploy Action" src="https://img.shields.io/badge/Website deployed for free with-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
+  </div>
+  <div>
     <a href="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml" target="_blank">
       <img src="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml/badge.svg" target="_blank"/>
     </a>  
@@ -62,6 +68,7 @@
       <img src="https://github.com/rvgsibs/marsusi_frontend_sistema/actions/workflows/master.yml/badge.svg" target="_blank"/>
     </a>
   </div>
+ 
   
   
   <!--### Hi there 👋
