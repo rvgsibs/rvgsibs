@@ -48,16 +48,19 @@
     <a href="https://api.whatsapp.com/send?phone=5531991917097&text=Ol%C3%A1%20vim%20pelo%20Github" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
     </a>
-  </div>
-  
+  </div> 
+
+
   ##
-  ### Github Actions
-  <div>
+<div>
      <img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
   </div>
   <div>
     <img alt="Website Deployed for Free with FTP Deploy Action" src="https://img.shields.io/badge/Website deployed for free with-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
   </div>
+  
+  ### Github Actions
+  
   <div>
     <a href="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml" target="_blank">
       <img src="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml/badge.svg" target="_blank"/>
