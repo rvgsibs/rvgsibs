@@ -60,7 +60,7 @@
   </div>
   
   ### Github Actions
-  
+
   <div>
     <a href="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml" target="_blank">
       <img src="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml/badge.svg" target="_blank"/>
@@ -73,8 +73,8 @@
   </div>
 
   <div>   
-    <a href="https://github.com/rvgsibs/300Sistema/actions/workflows/dotnet.yml" target="_blank">
-      <img src="https://github.com/rvgsibs/300Sistema/actions/workflows/dotnet.yml/badge.svg" target="_blank"/>
+    <a href="https://github.com/rvgsibs/300dWebHooksWhatsapp/actions/workflows/main.yml" target="_blank">
+      <img src="https://github.com/rvgsibs/300dWebHooksWhatsapp/actions/workflows/main.yml/badge.svg" target="_blank"/>
     </a>
   </div>
 
