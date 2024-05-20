@@ -79,7 +79,9 @@
   </div>
 
 
- 
+ <div>
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/4742cc60-b90f-4b54-a690-749b13076d54/deploy-status)](https://app.netlify.com/sites/marsusiblazor/deploys)
+ </div>
   
   
   <!--### Hi there 👋
