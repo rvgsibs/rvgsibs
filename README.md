@@ -80,8 +80,7 @@
   </div>
 
 
- 
-   [![Netlify Status](https://api.netlify.com/api/v1/badges/4742cc60-b90f-4b54-a690-749b13076d54/deploy-status)](https://app.netlify.com/sites/marsusiblazor/deploys)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/0f7ac50a-8089-461a-90c8-f13d997edec8/deploy-status)](https://app.netlify.com/sites/modelo-blazor/deploys)
  
   
   
