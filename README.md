@@ -8,6 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<div>
+  [![card](https://github-readme-stats.vercel.app/api?username=rvgsibs&theme=default&show_icons=true)](https://github.com/rvgsibs/github-readme-stats)
+</div>
+
 <div style="display:inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
