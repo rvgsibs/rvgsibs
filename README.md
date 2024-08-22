@@ -4,13 +4,11 @@
 
 <div>
   <a href="https://github.com/rvgsibs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvgsibs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvgsibs&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div>
-  [![card](https://github-readme-stats.vercel.app/api?username=rvgsibs&theme=default&show_icons=true)](https://github.com/rvgsibs/github-readme-stats)
-</div>
+
 
 <div style="display:inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
