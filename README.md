@@ -65,21 +65,12 @@
   ### Github Actions
 
   <div>
-    <a href="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml" target="_blank">
-      <img src="https://github.com/rvgsibs/marsusi-site/actions/workflows/test.yml/badge.svg" target="_blank"/>
+    <a href="https://github.com/rvgsibs/Gestor.Frontend/actions/workflows/test.yml" target="_blank">
+      <img src="https://github.com/rvgsibs/Gestor.Frontend/actions/workflows/azure-static-web-apps-lively-field-0ad22641e.yml/badge.svg" target="_blank"/>
     </a>  
   </div>
-  <div>   
-    <a href="https://github.com/rvgsibs/marsusi_frontend_sistema/actions/workflows/master.yml" target="_blank">
-      <img src="https://github.com/rvgsibs/marsusi_frontend_sistema/actions/workflows/master.yml/badge.svg" target="_blank"/>
-    </a>
-  </div>
 
-  <div>   
-    <a href="https://github.com/rvgsibs/300dWebHooksWhatsapp/actions/workflows/main.yml" target="_blank">
-      <img src="https://github.com/rvgsibs/300dWebHooksWhatsapp/actions/workflows/main.yml/badge.svg" target="_blank"/>
-    </a>
-  </div>
+ 
 
 
  [![Netlify Status](https://api.netlify.com/api/v1/badges/0f7ac50a-8089-461a-90c8-f13d997edec8/deploy-status)](https://app.netlify.com/sites/modelo-blazor/deploys)
