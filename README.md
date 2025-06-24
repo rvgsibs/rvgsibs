@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Developer Fullstack
+- Software Architect
+- Solutions Architect IA Expert
 
 <div>
   <a href="https://github.com/rvgsibs">
