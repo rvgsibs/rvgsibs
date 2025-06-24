@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Developer Fullstack
-- Software Architect
-- Solutions Architect IA Expert
+🚀 Software Architect and Solutions Architect IA Expert
+  
+<!-- - 🔭 I’m currently working on Developer Fullstack -->
 
 <div>
   <a href="https://github.com/rvgsibs">
