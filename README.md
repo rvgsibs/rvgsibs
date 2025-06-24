@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
-
 <div style="display:inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
@@ -28,7 +26,7 @@
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://img.stackshare.io/service/4013/SignalR-logo.png" />  
+  <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://az-icons.com/export/icons/a39e7fd3307ff56cc26d5a64eec7bf3f.svg" />  
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /> 
 </div>
@@ -53,16 +51,7 @@
     </a>
   </div> 
 
-
-  ##
-<div>
-     <img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
-  </div>
-  <div>
-    <img alt="Website Deployed for Free with FTP Deploy Action" src="https://img.shields.io/badge/Website deployed for free with-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
-  </div>
-  
-  ### Github Actions
+ ### Github Actions
 
   <div>    
     <a href="https://github.com/rvgsibs/SistemaLeadsWhatsappFrontend/actions/workflows/main.yml" target="_blank">
@@ -76,18 +65,18 @@
     </a>  
   </div>
 
-   
-
- 
-
-
- [![Netlify Status](https://api.netlify.com/api/v1/badges/0f7ac50a-8089-461a-90c8-f13d997edec8/deploy-status)](https://app.netlify.com/sites/modelo-blazor/deploys)
- 
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/0f7ac50a-8089-461a-90c8-f13d997edec8/deploy-status)](https://app.netlify.com/sites/modelo-blazor/deploys)
   
-  
-  <!--### Hi there 👋
+  ##
 
-
+  <div>
+     <img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
+  </div>
+  <div>
+    <img alt="Website Deployed for Free with FTP Deploy Action" src="https://img.shields.io/badge/Website deployed for free with-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">
+  </div> 
+ 
+ <!--### Hi there 👋
 **rvgsibs/rvgsibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
