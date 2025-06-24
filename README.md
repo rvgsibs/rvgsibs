@@ -64,11 +64,19 @@
   
   ### Github Actions
 
+  <div>    
+    <a href="https://github.com/rvgsibs/SistemaLeadsWhatsappFrontend/actions/workflows/main.yml" target="_blank">
+      <img src="https://github.com/rvgsibs/SistemaLeadsWhatsappFrontend/actions/workflows/main.yml/badge.svg" target="_blank"/>
+    </a>  
+  </div>
+
   <div>
     <a href="https://github.com/rvgsibs/Gestor.Frontend/actions/workflows/test.yml" target="_blank">
       <img src="https://github.com/rvgsibs/Gestor.Frontend/actions/workflows/azure-static-web-apps-lively-field-0ad22641e.yml/badge.svg" target="_blank"/>
     </a>  
   </div>
+
+   
 
  
 
