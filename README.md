@@ -5,11 +5,21 @@
 <!-- - 🔭 I’m currently working on Developer Fullstack -->
 
 <div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvgsibs&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rvgsibs&theme=vue-dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+    
+</div>
+
+
+<!-- <div>
   <a href="https://github.com/rvgsibs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvgsibs&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div> -->
 
+<!--
 <div style="display:inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
@@ -32,6 +42,7 @@
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
   <img align="center" alt="Rodrigo-Js" height="30" widht="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /> 
 </div>
+-->
   
   ##
   
