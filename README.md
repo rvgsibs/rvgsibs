@@ -4,6 +4,8 @@
   
 <!-- - 🔭 I’m currently working on Developer Fullstack -->
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rvgsibs?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <div>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvgsibs&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
