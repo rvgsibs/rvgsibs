@@ -4,6 +4,25 @@
   
 <!-- - 🔭 I’m currently working on Developer Fullstack -->
 
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=rvgsibs)](https://github.com/rvgsibs/github-readme-profile)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rvgsibs)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs)](https://github.com/rvgsibs/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvgsibs&theme=default&show_icons=true&hide_border=true&layout=compact" alt="rvgsibs's GitHub Stats" />
+
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rvgsibs?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <div>
